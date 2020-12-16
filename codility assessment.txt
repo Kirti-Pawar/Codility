@@ -1,0 +1,22 @@
+int count =0;
+        for(int i=0;i<points_x.Length;i++)
+        {
+           long left = (points_x[i]*points_x[i])+(points_y[i]*points_y[i]);
+           if((left<(outer*outer)) && left>(inner*inner))
+           {
+               count++;
+           }
+        }
+        return count;
+
+/*if(points_x[i]>-outer && points_x[i]<outer && points_y[i]<outer && points_y[i]>-outer &&  points_x[i]!=0 && points_y[i]!=0 )
+           {
+               if(points_x[i]==inner -1 && points_y[i]==inner-1)
+               {
+                   i++;
+               }
+               
+               count++;
+               inner+=1;
+               outer+=1;
+           }*/

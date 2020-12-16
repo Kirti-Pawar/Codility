@@ -1,0 +1,20 @@
+1.https://leetcode.com/problems/longest-happy-string/
+2.https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
+3.https://quabr.com/35097467/largest-bi-valued-slice-in-an-array
+4. https://leetcode.com/problems/kth-largest-element-in-an-array/
+https://gist.github.com/romabelka/8bb8ef40e9e991ea1728eb8105c57cb2
+https://www.geeksforgeeks.org/maximum-even-sum-subsequence/
+
+1.https://leetcode.com/problems/longest-happy-string/
+2.https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
+3.https://quabr.com/35097467/largest-bi-valued-slice-in-an-array
+4. https://leetcode.com/problems/kth-largest-element-in-an-array/
+5. https://www.geeksforgeeks.org/maximum-even-sum-subsequence/
+6. https://gist.github.com/romabelka/8bb8ef40e9e991ea1728eb8105c57cb2
+7. https://www.geeksforgeeks.org/find-if-there-is-a-subarray-with-0-sum/
+8. https://www.geeksforgeeks.org/merging-intervals/
+9.http://mfaziz.com/codility-excercise-john-likes-to-travel/
+10.https://www.geeksforgeeks.org/merging-intervals/
+11.https://medium.com/@poitevinpm/solution-to-leetcode-problem-978-longest-turbulent-subarray-a0fd74c66040
+
+ 
