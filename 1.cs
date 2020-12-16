@@ -9,10 +9,10 @@ static void Main()
 	int res =0;
 	for (int i = 0; i < A.Length; i++)  
       	{ 
-           		res = res ^ A[i]; 
-		Console.Write(" "+res);
+           		result = result ^ A[i]; 
+		Console.Write(" "+result);
         	} 
-Console.WriteLine("\n"+res);
+Console.WriteLine("\n"+result);
 }
 }
 }
